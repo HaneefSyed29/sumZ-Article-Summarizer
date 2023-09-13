@@ -1,4 +1,6 @@
-# React + Vite
+# sumZ | Article Summarizer
+
+![App Screenshot](https://res.cloudinary.com/dxaovcjmr/image/upload/v1694611841/Screenshot_2023-09-13_at_6.36.03_PM_wgjuna.png)
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
